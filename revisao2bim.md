@@ -30,7 +30,7 @@ ou `sudo apt purge nome-do-pacote`
 /etc/fuse.conf             /etc/libaudit.conf    /etc/pam.conf                 /etc/ucf.conf
 /etc/gai.conf              /etc/logrotate.conf   /etc/popularity-contest.conf  /etc/updatedb.conf
 ```
-  * Como listar todos os diretórios que terminando com `.d` e se encontram no diretório `/etc`? 
+  * Como listar todos os diretórios que terminam com `.d` e se encontram no diretório `/etc`? 
 ```
 /etc/apparmor.d         /etc/init.d          /etc/modules-load.d  /etc/rc3.d      /etc/sensors.d
 /etc/bash_completion.d  /etc/insserv.conf.d  /etc/Muttrc.d        /etc/rc4.d      /etc/sudoers.d
