@@ -111,7 +111,10 @@ Comandos:
  * Listar as permissões em arquivos: `ls -l`
  * Listar as permissões em diretórios: `ls -ld`
 
-Perguntas:
+Atividades:
+ * Deixe o diretório `/tmp/a` com permissões para que somente seu proprietário possa entrar nele, mas sem poder gravar nada.
+ * Deixe o diretório `/tmp/b` com permissões para que seu proprietário e grupo possam entrar nele e gravar conteúdo, mas que os outros só consigam entrar nele sem poder listar seu conteúdo.
+ * Deixe o diretório `/tmp/c` oculto e com permissões para que todos (usuários, grupos e outros) possam fazer tudo (ler, gravar e executar).
 
 
 ### Set UID
